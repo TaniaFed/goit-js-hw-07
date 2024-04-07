@@ -38,6 +38,7 @@ const pictures = images
 
 imgList.insertAdjacentHTML("afterbegin", pictures);
 
+// imgList.innerHTML = pictures;
 
 
 
